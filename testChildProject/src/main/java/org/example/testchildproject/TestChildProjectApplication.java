@@ -11,7 +11,7 @@ public class TestChildProjectApplication
 	{
 		SpringApplication.run(TestChildProjectApplication.class, args);
 		
-		System.out.println("TestChildProjectApplication.main");
+		System.out.println("TestChildProjectApplication.main!!!! ");
 	}
 	
 }
