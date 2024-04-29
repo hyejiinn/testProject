@@ -11,7 +11,8 @@ public class TestChildProjectApplication
 	{
 		SpringApplication.run(TestChildProjectApplication.class, args);
 		
-		System.out.println("TestChildProjectApplication.main!!!! ");
+		System.out.println("TestChildProjectApplication.main!!!!");
+		System.out.println("TEST2 프로젝트에서 수정 진행중 ~_~ ");
 	}
 	
 }
